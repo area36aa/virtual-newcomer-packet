@@ -9,7 +9,8 @@
 title: Virtual Newcomer Packet
 email: youremailaddress@gmail.com
 description: The Jekyll version of the Phantom theme by HTML5 UP.
-baseurl: "virtual-newcomer-packet" # the subpath of your site, e.g. /blog
+baseurl: /virtual-newcomer-packet # the subpath of your site, e.g. /blog
+#baseurl: "" # toggle local build
 url: "" # the base hostname & protocol for your site
 
 # Logo settings
@@ -30,5 +31,3 @@ markdown: kramdown
 
 # Layout settings
 home-link-in-menu: yes
-
-theme: jekyll-theme-slate
