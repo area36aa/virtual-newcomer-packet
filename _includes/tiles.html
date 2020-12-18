@@ -7,10 +7,12 @@
 		</span>
 		<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
 			<h2>{{ post.title }}</h2>
-			<div class="content">
-				<p>{{ post.excerpt }}</p>
-			</div>
 		</a>
+		{% if post.title == "Is A.A. For You?" %}
+			<a href="https://www.aa.org/pages/en_US/is-aa-for-you-twelve-questions-only-you-can-answer">
+				<h2>{{ post.title }}</h2>
+			</a>
+		{% endif %}
 	</article>
 {% endfor %}
 

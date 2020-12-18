@@ -1,7 +1,8 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title:  "Is A.A. For You?"
 date:   2016-07-16 12:00:00 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://www.aa.org/pages/en_US/is-aa-for-you-twelve-questions-only-you-can-answer" width="900" height="1000">
