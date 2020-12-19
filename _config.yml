@@ -9,8 +9,8 @@
 title: Virtual Newcomer Packet
 email: adambaileyland@gmail.com
 description: A virtual newcomer packet.
-baseurl: /virtual-newcomer-packet # the subpath of your site, e.g. /blog
-#baseurl: "" # toggle local build
+#baseurl: /virtual-newcomer-packet # the subpath of your site, e.g. /blog
+baseurl: "" # toggle local build
 url: "" # the base hostname & protocol for your site
 
 # Logo settings
