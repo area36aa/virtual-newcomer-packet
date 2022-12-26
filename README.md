@@ -1,3 +1,21 @@
+# Vitrual Newcomer Packet (newtoaa.org)
+
+The purpose of this website is to provide accurate information to
+newcomers—people who might be new to A.A.—about Alcoholics Anonymous.
+It's meant to guide someone to the right spot for A.A.'s approved material, and
+its simplicity is intentional. While there are many valuable resources available
+for someone interested in the A.A. program, this is not an attempt to replace
+any of those. This is an attempt to make it easier for the still suffering alcoholic
+to find the information they need to begin their journey.
+
+# Updates
+
+AA.org links may need to be updated in the future if they change. These can be found in includes\tiles.html. All the information and credits below are from the parent repo for the website theme. It will be helpful for anyone wanting to learn more about the inner workings of the site or make any technical updates.
+
+## **Theme Info from Origional Repo**
+
+---
+
 # (WIP) Phantom - Jekyll Theme
 
 A Jekyll version of the "Phantom" theme by [HTML5 UP](https://html5up.net/).
